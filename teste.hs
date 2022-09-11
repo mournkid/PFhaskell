@@ -1,0 +1,1 @@
+questao_q a b c |(a==b)= 1
